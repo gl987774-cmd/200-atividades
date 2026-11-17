@@ -7,8 +7,8 @@ VÍDEO
 O player VTurb original foi reintegrado. O vídeo é transmitido pela internet e não está dentro do ZIP. Precisa de conexão e da disponibilidade/liberação do provedor para seu domínio. Se o navegador restringir o player em arquivo local, abra pela hospedagem ou por um servidor local (python -m http.server 8000, depois http://localhost:8000).
 
 CHECKOUTS E RASTREAMENTO
-Links originais preservados: completo R$19,90, oferta adicional R$15,00 e básico R$10,00. Confira se são os seus links antes de divulgar.
-Pixel UTMify original preservado: 6acfda07cf1164bde9219814.
+Checkout: básico R$10,00, completo R$27,90 e oferta do completo por R$19,90 no modal após selecionar o básico.
+Rastreamento UTMify: pixel 6afb9be28e7c9c2a95bc39b4 e script de UTMs.
 
 VALIDAÇÃO
 Arquivos de imagens, fonte e CSS baixados; caminhos locais e sintaxe JavaScript conferidos. O script do player e a lista de transmissão responderam durante a preparação. A reprodução audiovisual completa e o teste visual em navegador não puderam ser confirmados neste ambiente.
